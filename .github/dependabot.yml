@@ -4,4 +4,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    allow: ["@keethealth/ui-components"]
+    allow: [
+      {
+        dependency-name: "@keethealth/ui-components"
+      }
+    ]
