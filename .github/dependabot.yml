@@ -6,6 +6,6 @@ updates:
       interval: "daily"
     allow: [
       {
-        dependency-name: "underscore"
+        dependency-name: "aos"
       }
     ]
