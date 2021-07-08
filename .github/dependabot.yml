@@ -6,6 +6,6 @@ updates:
       interval: "daily"
     allow: [
       {
-        dependency-name: "@keethealth/ui-components"
+        dependency-name: "lodash"
       }
     ]
